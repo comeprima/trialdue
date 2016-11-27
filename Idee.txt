@@ -1,1 +1,10 @@
-# QUesto file contiene le proposte e le idee da discutere #
+# Questo file contiene le proposte sui progetti da fare e le idee da implementare nei vari progetti #
+
+Lista di cose da scegliere:
+
+1) Che progetto fare
+2) Linguaggio nella quale scriverlo
+3) Scaricare il necessario per far funzionare il progetto
+4) Decidere come suddividere il lavoro
+5) ?
+6) PROFIT
