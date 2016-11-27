@@ -2,10 +2,10 @@
 
 Lista di cose da scegliere e fare:
 
-1) Cosa fare
-2) Linguaggio nella quale scriverlo
-3) Scaricare il necessario per far funzionare il progetto
-4) Decidere come suddividere il lavoro
-5) Decidere quando ci si può lavorare su insieme
+1) Cosa fare [FATTO]
+2) Linguaggio nella quale scriverlo [FATTO]
+3) Scaricare il necessario per far funzionare il progetto [In corso]
+4) Decidere come suddividere il lavoro [In corso] 
+5) Decidere quando ci si può lavorare su insieme [In corso]
 X) ?
 Y) PROFIT
