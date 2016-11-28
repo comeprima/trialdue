@@ -1,0 +1,3 @@
+#LEGGIMI#
+Questo è un sito di prova per testare i template di bootstrap, non è nulla di speciale.
+P.s c'è un piccolo easter egg nella sezione About! 
